@@ -81,5 +81,6 @@ public class Enlace {
         }  
         return lista;
     }
+    //INSERT INTO Ciudad (nombre, poblacion) values ('Loja', 469000)
      
 }  
